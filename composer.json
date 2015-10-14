@@ -1,5 +1,5 @@
 {
-    "name": "complexmedia/guzzle-hawk",
+    "name": "complex-media/guzzle-hawk",
     "description": "A GuzzlePHP plugin for Hawk authentication",
     "require": {
         "php": ">=5.4.0",
