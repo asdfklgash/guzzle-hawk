@@ -1,7 +1,6 @@
 {
-    "name": "jeskew/guzzle-hawk",
+    "name": "complexmedia/guzzle-hawk",
     "description": "A GuzzlePHP plugin for Hawk authentication",
-    "version": "0.1.2",
     "require": {
         "php": ">=5.4.0",
         "dflydev/hawk": "*",
@@ -10,14 +9,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jonathan Eskew",
-            "email": "jonathan@jeskew.net"
+            "name": "Complex Media",
+            "email": "info@complex.com"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
         "psr-0": {
-            "Jeskew\\Guzzle\\": "src/"
+            "ComplexMedia\\Guzzle\\": "src/"
         }
     }
 }
