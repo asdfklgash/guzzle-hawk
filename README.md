@@ -8,7 +8,7 @@ sign your requests.
 
 First, install with Composer:
 
-    composer require complexmedia/guzzle-hawk
+    composer require complex-media/guzzle-hawk
 
 Then, use it in code.
 
