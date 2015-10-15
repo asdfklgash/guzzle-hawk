@@ -1,4 +1,4 @@
-A Hawk Authenticator for Guzzle.  
+# A Hawk Authenticator for Guzzle. ![](https://ga-beacon.appspot.com/UA-68899481-1/guzzle-hawk/readme?pixel)
 
 Originally developed by [jeskew](https://github.com/jeskew/guzzle-hawk), this
 extremely simple Plugin provides middleware you can place on your Guzzle client to automagically
